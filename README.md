@@ -1,2 +1,1 @@
-# Machine-Learning-Meetings
-# Machine-Learning-Meetings
+# notes and notebooks for our ML meetings
