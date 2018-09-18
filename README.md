@@ -1,1 +1,1 @@
-# notes and notebooks for our ML meetings
+### Notes and notebooks for our ML meetings
