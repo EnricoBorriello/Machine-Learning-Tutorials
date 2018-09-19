@@ -10,5 +10,5 @@ We cast the gradient of a linear regressor in a vectorized form, and test the re
 ### ML 03 - Logistic regression 1 (warm-up)
 This time we cannot derive an analytical solution to test our numerical algorithm. Therefore, we test our classifier on a simple data set with only two features that we can easily visualize.
 
-### ML 03 - Logistic regression 2
+### ML 04 - Logistic regression 2
 We use the algorithm developed and tested in our previous notebook to reproduce cancer diagnosis classification results found in the medical literature.
