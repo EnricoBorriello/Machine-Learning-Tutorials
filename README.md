@@ -1,4 +1,4 @@
-## Notes and notebooks for our ML meetings
+## Notes and notebooks on ML
 
 ### ML 01 - Linear Regression
 In this notebook we express the cost function and the gradient of a linear regressor in a vectorized form.
